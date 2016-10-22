@@ -4,12 +4,12 @@ kelas:D4TI2A
 NPM:1144078
 
 1.menjelaskan apa itu geografis?
-
+<br>
 geografis berasal dari gabungan kata geo dan graphy. 
 Geo berarti bumi sedangkan graphy berarti proses penulisan, 
 jadi geografis itu penulisan tentang bumi. 
 bumi itu dapat di pecahkan teorinya oleh geografi.
-
+<br>
 2.apa itu sistem informasi?
 menurut Leitch dan Davids adalah suatu sistem di dalam suatu organisasi yang mempertemukan kebutuhan pengolahan transaksi harian, 
 mendukung operasi, bersifat managerial dan kegiatan strategis dari suatu organisai dan menyediakan pihak luar tertentu dengan laporan yang diperlukan.
