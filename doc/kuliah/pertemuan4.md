@@ -2,12 +2,12 @@ Latar Belakang Masalah<br>
 implementasi GIS benyak untuk dilakukan .Tetapi untuk itu kita harus
 belajar terlebih dahulu cara manipulasi data (retrieve , update delete).
 kali ini saya akan menjelaskan data shapefile geospasial dengan CRUD.
-Cara Create shapefile <br>
+Cara Create shapefile<br>
 Cara Update shapefile <br>
 cara Delete shapefile <br>
 
 
-CREATE DATA<br>
+CREATE SHAPEFILE<br>
 langkah-langkahnya adalah sebagai berikut:
 1.cara-import shapefile<br>
 2.cara-instansiasi writer method<br>
